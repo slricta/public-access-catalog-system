@@ -19,4 +19,5 @@ Admin
 - XAMPP (MySQL)
 
 **Notes**
+
 This project was built as a learning exercise to practice database integration and basic CRUD operations using Java.
