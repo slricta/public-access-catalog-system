@@ -2,6 +2,7 @@
 A simple Public Access Catalog System that allows users to search for books and view their availability.
 
 **Features**
+
 User
 - Search for books
 - View book availability
